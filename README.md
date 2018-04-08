@@ -1,2 +1,2 @@
-# bookLibraryDatabase
-a simple program for managing books
+# LibraryDatabase
+a simple program for managing your books
